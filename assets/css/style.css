@@ -23,7 +23,7 @@ body {
   
   .wrappper {
 	width: 100%;
-	margin: 0 auto;
+	margin: 10px auto;
   }
   .wrappper:after {
 	content: "";
@@ -110,6 +110,7 @@ body {
   }
   
   #mylives {
+		padding: 25px;
 	font-size: 1.6em;
 	text-align: center;
 	display: block;
