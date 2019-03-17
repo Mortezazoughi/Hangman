@@ -10,7 +10,7 @@ body {
   }
   .bgimage {
     /* Background image */
-    background-image: url("assets/images/home-hangman-photoshopped.jpg");
+    background-image: url("/assets/images/home-hangman-photoshopped.jpg");
     height: 100vh;
     padding: 1%;
     /* centering and scaling the image*/
@@ -31,11 +31,7 @@ body {
 	clear: both;
   }
   
-  canvas {
-	  height: 0px;	
-	padding: 0px;;
-  }
-  
+    
     
   .windows .dreams {
 	-webkit-text-stroke: 4px #ebe2e9;
