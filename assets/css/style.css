@@ -10,7 +10,7 @@ body {
   }
   .bgimage {
     /* Background image */
-    background-image: url("/assets/images/home-hangman-photoshopped.jpg");
+    background-image: url("../images/home-hangman-photoshopped.jpg");
     height: 100vh;
     padding: 1%;
     /* centering and scaling the image*/
